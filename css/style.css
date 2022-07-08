@@ -1,0 +1,139 @@
+input{
+    background-color: blue;
+    color: white;
+    border-radius: 15px;
+    height: 25px;
+    margin: 10%;
+}
+
+body{
+    background-color: #9d6eff;
+    margin: 0%;
+    padding: 0%;
+}
+
+img{
+    margin: 10%;
+    height: 50px;
+    width: 50px;
+}
+.c-header{
+    position: fixed;
+    top:0;
+    display: flex;
+    justify-content: space-between;
+    background-color: #ff5dd4;
+    width: 100%;
+    height: 60px;
+}
+
+
+
+.c-icon{
+    display: flex;
+    padding-left: 10%;
+    padding-right: 10%;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.c-icon img{
+    display: flex;
+    margin: 25%;
+    width: 25px;
+    height: 25px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.c-buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-right: 1%;
+}
+
+.b-login{
+    display: flex;
+    margin: 5%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.b-signup{
+    display: flex;
+    margin: 5%;
+}
+
+
+.c-table{
+    display: flex;
+    flex-direction: row;
+}
+
+.tablebox1{
+    background-color: tomato;
+    width: 20%;
+    height: 20%;
+    padding: 10px;
+    margin: 1%;
+    margin-left: 5%;
+}
+
+.tablebox2{
+    background-color: yellow;
+    width: 20%;
+    height: 20%;
+    padding: 10px;
+    margin: 1%;
+}
+.tablebox3{
+    background-color: red;
+    height: 20%;
+    width: 20%;
+    padding: 10px;
+    margin: 1%;
+}
+
+.tablebox4{
+    background-color: purple;
+    height: 20%;
+    width: 20%;
+    padding: 10px;
+    margin: 1%;
+    margin-left: 5%;
+}
+
+.tablebox5{
+    background-color: brown;
+    height: 20%;
+    width: 20%;
+    padding: 10px;
+    margin: 1%;
+}
+
+.tablebox6{
+    background-color: springgreen;
+    height: 20%;
+    width: 20%;
+    padding: 10px;
+    margin: 1%;
+}
+
+.tabletxt{
+
+}
+
+.c-body{
+    display: flex;
+    flex-direction: column;
+    padding-top: 10%;
+}
+
+.c-box{
+
+}
+
+.c-image{
+
+}
